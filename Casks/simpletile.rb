@@ -1,6 +1,6 @@
 cask "simpletile" do
-  version "0.1.0"
-  sha256 "b39947b8dff3f7613d570f7c2faec6b9352885503e1a8206bd04637d936a9647"
+  version "0.1.1"
+  sha256 "5a385136a37f5a5db369edb3c10aa0d60b62c8a5152beddafb43ba7c978591d5"
 
   url "https://github.com/BlazejNowicki/simpletile/releases/download/v#{version}/SimpleTile-#{version}.zip"
   name "SimpleTile"
